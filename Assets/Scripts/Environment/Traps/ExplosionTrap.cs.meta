@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a347518dea54544080c0ea3c759c745
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - classicTileMaterial: {fileID: 2100000, guid: 15aca2e70ded0b9488b2bbfb2eecce7a, type: 2}
+  - explosionDangerMaterial: {fileID: 2100000, guid: 0a800ca360a7a904999e773dd15c922e, type: 2}
+  - explosionTriggerMaterial: {fileID: 2100000, guid: 81c7e25680f674d4f8d5780dab1471cc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
